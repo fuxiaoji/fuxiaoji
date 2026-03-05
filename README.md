@@ -5,7 +5,10 @@
 ## 🎓 关于我
 
 金融学本科生，对**金融交易**、**Web3技术**和**数据分析**充满热情。具有实盘交易经验和多个竞赛获奖经历，致力于将金融知识与编程技能结合，探索金融科技的未来。
+## star
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuxiaoji&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 💼 核心技能
